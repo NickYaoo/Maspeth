@@ -12,28 +12,35 @@ In order to determine how each of our Queens neighborhoods ranked in terms of de
 ## Summary of HC7 and HC8
 #Plot 1:
 
-![alt text](Plot 1.png)
+![alt text](Plot_1.png)
 
 This bar graph compares each borough (Queens, Manhattan, Brooklyn, and the Bronx) and their percentages of sidewalks, roadways, both, and open streets. Based on the percentages, all four boroughs prefer sidewalks to roadways. Within the analyzed boroughs, the average sidewalk areas are greater than all their average roadway areas. Plot #2 further supports the idea synthesized from Plot #1 that Queens has a stronger preference for sidewalks when compared to the boroughs of Brooklyn and Manhattan. However, when compared to the Bronx, Queens has a weaker preference than the Bronx. 
 
 #Plot 2:
-![alt text](Plot2.png)
+![alt text](Plot_2.png)
 
+The pie chart analyzes the number (in percentages) of sidewalks, roadways, both, and open streets within the borough of Queens. The purpose of this pie chart is to give a numerical representation of whether sidewalks or roadways are more common for outdoor dinings in Queens. Overall, the number of sidewalks is greater than the number of roadways. Though Plot #1 does not depict the ratio between average sidewalk area and average roadway area, Plot #2 does. 
 
 #Plot 3:
-![alt text](Plot3.png)
+![alt text](Plot_3.png)
+
+This bar graph compares each of our neighborhoods in Queens. This is a comparative bar plot with sidewalk average area in the blue and roadway average area in the orange. There is a clear difference between sidewalk and roadway areas. Plot #3 also supports the idea from Plot #1 and Plot #2 that Queens has a stronger preference for sidewalks, even within 5 of neighborhoods. This difference may be indicative of the space available for outdoor dining. More average space on the sidewalks reflect the higher amounts of sidewalk outdoor dining in Queens compared to the roadway outdoor dining as seen on Plot #2. 
 
 #Plot 4:
-![alt text](Plot4_Maspeth.png)
+![alt text](Plot_4_Maspeth.png)
+
+In the neighborhood of Maspeth, the bar graph shows that the average sidewalk area is greater than the average roadway area. 
 
 #Plot 5:
-![alt text](Plot5_Maspeth.png)
+![alt text](Plot_5_Maspeth.png)
 
+Based on the bar graph, the neighborhood of Maspeth prefers sidewalks compared to roadways for seating for outdoor dining.  
 
 ## Highlighted Image from HC8
 ![alt text](Maspeth_dimmed.png)
 
 
+<iframe src="maspeth.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-**Bold** and _Italic_ and `Code` text
+
 
