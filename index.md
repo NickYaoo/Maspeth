@@ -39,6 +39,7 @@ Based on the bar graph, the neighborhood of Maspeth prefers sidewalks compared t
 ## Highlighted Image from HC8
 ![alt text](Maspeth_dimmed.png)
 
+## Map from HC9
 <dl>
   <iframe src="maspeth.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
