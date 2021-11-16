@@ -40,7 +40,6 @@ Based on the bar graph, the neighborhood of Maspeth prefers sidewalks compared t
 ![alt text](Maspeth_dimmed.png)
 
 <dl>
-<iframe src="maspeth.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe src="maspeth.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
-
 
