@@ -10,9 +10,28 @@ Maspeth, Queens is a residential area that is roughly half unoccupied by living 
 In order to determine how each of our Queens neighborhoods ranked in terms of desirability for outdoor dining, we compared each one using the following desirable qualities: walk score, transit score, and income. Walk Score measures how readily the residents of a neighborhood can access the restaurants. People walking around the neighborhood could spot the restaurants and decide to stay and eat. Transit Score measures how readily consumers outside the neighborhood can access the restaurants. People need to be able to access the restaurants easily if they hear about them through advertisements. Income  is used to determine the cost of living. This then indicates more opportunities for restaurants to operate and be supported. We first ranked each neighborhood by a criteria and awarded 1 to 5 points (5 being the best and 1 being the worst). Then we totaled the points to determine a final ranking. For all metrics, walk score, transit score and median income, the higher the number is, the more points each neighborhood received. In terms of desirability of outdoor dining, our metrics indicate the following for our respective neighborhoods in Queens (from best to worst): Ridgewood, Jackson Heights, Astoria, Maspeth, Flushing. Ridgewood has the best balance of walkability, train access, and income to create an environment ideal for people to start restaurants that have outdoor dining while being easily accessible to people in and out of the area.
 
 ## Summary of HC7 and HC8
+#Plot 1:
+![alt text](Plot 1.png)
+This bar graph compares each borough (Queens, Manhattan, Brooklyn, and the Bronx) and their percentages of sidewalks, roadways, both, and open streets. Based on the percentages, all four boroughs prefer sidewalks to roadways. Within the analyzed boroughs, the average sidewalk areas are greater than all their average roadway areas. Plot #2 further supports the idea synthesized from Plot #1 that Queens has a stronger preference for sidewalks when compared to the boroughs of Brooklyn and Manhattan. However, when compared to the Bronx, Queens has a weaker preference than the Bronx. 
+
+#Plot 2:
+![alt text](Plot 2.png)
+
+
+#Plot 3:
+![alt text](Plot 3.png)
+
+#Plot 4:
+![alt text](Plot 4_Maspeth.png)
+
+#Plot 5:
+![alt text](Plot 5_Maspeth.png)
+
 
 ## Highlighted Image from HC8
-![alt text] 
+![alt text](Maspeth_dimmed.png)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
