@@ -11,21 +11,23 @@ In order to determine how each of our Queens neighborhoods ranked in terms of de
 
 ## Summary of HC7 and HC8
 #Plot 1:
+
 ![alt text](Plot 1.png)
+
 This bar graph compares each borough (Queens, Manhattan, Brooklyn, and the Bronx) and their percentages of sidewalks, roadways, both, and open streets. Based on the percentages, all four boroughs prefer sidewalks to roadways. Within the analyzed boroughs, the average sidewalk areas are greater than all their average roadway areas. Plot #2 further supports the idea synthesized from Plot #1 that Queens has a stronger preference for sidewalks when compared to the boroughs of Brooklyn and Manhattan. However, when compared to the Bronx, Queens has a weaker preference than the Bronx. 
 
 #Plot 2:
-![alt text](Plot 2.png)
+![alt text](Plot2.png)
 
 
 #Plot 3:
-![alt text](Plot 3.png)
+![alt text](Plot3.png)
 
 #Plot 4:
-![alt text](Plot 4_Maspeth.png)
+![alt text](Plot4_Maspeth.png)
 
 #Plot 5:
-![alt text](Plot 5_Maspeth.png)
+![alt text](Plot5_Maspeth.png)
 
 
 ## Highlighted Image from HC8
