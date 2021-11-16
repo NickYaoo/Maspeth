@@ -1,25 +1,18 @@
-## Welcome to GitHub Pages
+# Maspeth
+## HC6 Highlighted Map:
 
-You can use the [editor on GitHub](https://github.com/NickYaoo/Maspeth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Basic Demographics & Statistics:
+Zipcode: 11378
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Maspeth, Queens is a residential area that is roughly half unoccupied by living human beings. With the Calvary, New Calvary, and Mount Zion Cemeteries, there is not much room in Maspeth. The demographics of Maspeth show that Maspeth is roughly 54% white, 33% Hispanic, 10% Asian, and 2% Black out of a population of 38,524. The median household income is 77, 710 with a poverty rate of just over 8%. Maspeth has a diverse selection of restaurants and bars in the area. For example, they have selections in Asian Cusine like Thai Mission and also sports bar style places like the O’Neill’s. However, it is important to note that there may not be as many restaurants and bars as this is a residential area with the majority of people needing to commute almost 40 minutes to get to work each day. With half the population being single, there is a chance that many will just eat in the surrounding neighborhoods or closer to their workplace rather than in Maspeth, thus the smaller selection of restaurants and bars. 
 
-### Markdown
+## Summary of Observations for HC3
+In order to determine how each of our Queens neighborhoods ranked in terms of desirability for outdoor dining, we compared each one using the following desirable qualities: walk score, transit score, and income. Walk Score measures how readily the residents of a neighborhood can access the restaurants. People walking around the neighborhood could spot the restaurants and decide to stay and eat. Transit Score measures how readily consumers outside the neighborhood can access the restaurants. People need to be able to access the restaurants easily if they hear about them through advertisements. Income  is used to determine the cost of living. This then indicates more opportunities for restaurants to operate and be supported. We first ranked each neighborhood by a criteria and awarded 1 to 5 points (5 being the best and 1 being the worst). Then we totaled the points to determine a final ranking. For all metrics, walk score, transit score and median income, the higher the number is, the more points each neighborhood received. In terms of desirability of outdoor dining, our metrics indicate the following for our respective neighborhoods in Queens (from best to worst): Ridgewood, Jackson Heights, Astoria, Maspeth, Flushing. Ridgewood has the best balance of walkability, train access, and income to create an environment ideal for people to start restaurants that have outdoor dining while being easily accessible to people in and out of the area.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Summary of HC7 and HC8
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## Highlighted Image from HC8
+![alt text] 
 
 **Bold** and _Italic_ and `Code` text
 
